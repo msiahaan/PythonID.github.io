@@ -50,6 +50,7 @@ nav_order: 4
 - [WEBSITE] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 - [WEBSITE] [W3Shcool Python](https://www.w3schools.com/python/default.asp)
 - [WEBSITE] [Javapoint Python](https://www.javatpoint.com/python-tutorial)
+- [WEBSITE] [Python for Everybody](https://www.py4e.com/)
 
 ### Berbayar
 
